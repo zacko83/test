@@ -1,0 +1,15 @@
+# Site settings
+title: Test
+email: michael.zagel@gmx.de
+description: Test
+# baseurl: "/Documentation" # the subpath of your site, e.g. /blog/
+url: "https://zacko83.github.io" # the base hostname & protocol for your site
+github_username: zacko83
+
+# Build settings
+highlighter: rouge
+
+# Custom Settings
+github_url: https://github.com/zacko83/test
+site_github_url: https://github.com/zacko83/test
+edit_on_github_url: https://github.com/zacko83/test/edit/gh-pages/%path%
