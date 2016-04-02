@@ -1,5 +1,5 @@
 ---
-title: Document Center
+layout: docs-default
 ---
 
 # SODA Styling Cheat Sheet

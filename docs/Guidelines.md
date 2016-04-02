@@ -1,6 +1,7 @@
 ---
 layout: page
-title: bla
+title: 1.x
+permalink: /docs/
 ---
 
 # Developer Guidelines
@@ -15,14 +16,14 @@ This guide aims to cover the essential aspects of our daily life as developers i
 
 Of course, nothing is cut in stone. As technologies change, also rules must adapt. If you believe, a rules is not suitable for a certain project or it should be adjusted in general, feel free to contact team architecture.
 
-## [Coding Conventions](guidelines/CodingConventions.md)
+## [Coding Conventions](guidelines/CodingConventions.html)
 
-## [Clean Code Guidelines](guidelines/CleanCode.md)
+## [Clean Code Guidelines](guidelines/CleanCode.html)
 
-## [Technical Debt](guidelines/TechnicalDebt.md)
+## [Technical Debt](guidelines/TechnicalDebt.html)
 
-## [Code Review](guidelines/CodeReviews.md)
+## [Code Review](guidelines/CodeReviews.html)
 
-## [Dev Tools](guidelines/DevTools.md)
+## [Dev Tools](guidelines/DevTools.html)
 
-## [Libraries and Frameworks](guidelines/LibrariesAndFrameworks.md)
+## [Libraries and Frameworks](guidelines/LibrariesAndFrameworks.html)

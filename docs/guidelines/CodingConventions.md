@@ -1,3 +1,7 @@
+---
+layout: docs-default
+---
+
 # Coding Conventions
 
 ## C# Styling and Naming
