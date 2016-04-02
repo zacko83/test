@@ -1,15 +1,16 @@
 # Site settings
-title: Test
-email: michael.zagel@gmx.de
-description: Test
-# baseurl: "/Documentation" # the subpath of your site, e.g. /blog/
-url: "https://zacko83.github.io" # the base hostname & protocol for your site
-github_username: zacko83
+title: IdentityServer3
+email: identity@leastprivilege.com
+description: IdentityServer
+baseurl: "/Documentation" # the subpath of your site, e.g. /blog/
+url: "https://identityserver.github.io" # the base hostname & protocol for your site
+twitter_username: identityserver
+github_username: identityserver
 
 # Build settings
 highlighter: rouge
 
 # Custom Settings
-github_url: https://github.com/zacko83/test
-site_github_url: https://github.com/zacko83/test
-edit_on_github_url: https://github.com/zacko83/test/edit/gh-pages/%path%
+github_url: https://github.com/IdentityServer/Documentation
+site_github_url: https://github.com/IdentityServer/Documentation
+edit_on_github_url: https://github.com/IdentityServer/Documentation/edit/gh-pages/%path%
